@@ -3,7 +3,7 @@
 
 ## Company: AtliQ Hardwares
 
-**AtliQ Hardwares** is an imaginary leading computer hardware producer in India with a global presence. The company is committed to leveraging data analytics to drive smart, data-informed decisions.
+**AtliQ Hardwares** is a fictional top computer hardware maker in India with a global reach. The company focuses on using data analytics to make smart, informed decisions..
 
 ## Challenge
 
@@ -19,20 +19,20 @@ As a hypothetical applicant for this role, I was tasked with:
 ## My Approach
 
 1. **Data Extraction with SQL**:
-   - Utilized MySQL to run queries and pull the necessary data.
+   - Used MySQL to write queries and fetch the needed data.
    
 2. **Data Visualization**:
-   - Leveraged Power BI to visualize the output, making the insights clear and compelling.
+   - Used Power BI to create visuals that made the insights easy to understand and engaging.
    
 3. **Presentation Design**:
-   - Designed an engaging and professional presentation in Microsoft PowerPoint to effectively communicate the insights.
+   - Created a clear and professional presentation in Microsoft PowerPoint to share the insights.
    
 4. **Actionable Insights**:
    - Provided actionable insights and recommendations to assist the management team in making informed decisions.
 
 ## Outcome
 
-Through this project, I demonstrated my ability to handle complex data queries and present findings in an engaging and insightful manner. This experience not only honed my technical skills but also enhanced my ability to communicate data-driven insights effectively.
+This project showed my ability to work with complex data queries and share findings in a clear and engaging way. It helped me improve both my technical skills and my ability to explain insights effectively.
 
 ## Files in this Repository
 
